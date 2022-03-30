@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is Sagi Golan
 
-### I am A full-stack-developer
+### I am a full-stack-developer
 
-- **🏢 I am currently looking for a Junior full-stack developer position.**
+- **🏢 I am currently looking for a junior full-stack developer position.**
 - **📫 Connect with me on LinkedIn - [Sagi Golan](https://www.linkedin.com/in/golan-sagi/).**
 
 ---
@@ -67,6 +67,12 @@
       </a>
       <br>Webpack
     </td>
+      <td align="center" width="96">
+    <a href="#macropower-tech">
+    <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+    </a>
+    <br>Sass
+  </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -128,12 +134,6 @@
     <img src="./img/webRTC.png" width="48" height="48" alt="WebRTC" />
   </a>
   <br>WebRTC
-  </td>
-  <td align="center" width="96">
-    <a href="#macropower-tech">
-    <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-    </a>
-    <br>Sass
   </td>
   </tr>
 </table>
