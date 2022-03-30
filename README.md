@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Rama Badash
+## Hi there 👋 My name is Sagi Golan
 
 ### I am A full-stack-developer
 
