@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Sagi Golan
+## Hi there 👋 my name is Sagi Golan
 
 ### I am a full-stack-developer
 
